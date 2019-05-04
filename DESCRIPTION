@@ -18,3 +18,4 @@ NeedsCompilation: no
 Packaged: 2019-03-26 08:08:18 UTC; maherve
 Repository: CRAN
 Date/Publication: 2019-03-26 09:06:10 UTC
+RoxygenNote: 6.1.1
